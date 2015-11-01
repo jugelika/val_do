@@ -74,3 +74,17 @@ body{
 	padding: 0 5px;
 	display: inline-block;
 }
+
+.main-do{
+	animation-name: bg;
+	animation-iteration-count:infinite;
+	animation-duration: 20s;
+}
+
+@keyframes bg {
+    20% {background: #8062F3;}
+    40% {background: #08AEF1;}
+    60% {background: #2B2B2B;}
+    80% {background: #E94500;}
+}
+

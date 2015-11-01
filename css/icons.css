@@ -25,3 +25,10 @@
 .val-help:before{content:'\0045';}
 .val-github:before{content:'\0046';}
 .val-facebook:before{content:'\0047';}
+.val-user:before{content:'\0048';}
+.val-message:before{content:'\0049';}
+.val-password:before{content:'\004A';}
+.val-error:before{content:'\004B';}
+.val-yes:before{content:'\004C';}
+.val-no:before{content:'\004D';}
+.val-minus:before{content:'\004E';}
