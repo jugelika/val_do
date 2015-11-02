@@ -78,6 +78,58 @@
 	font-family: 'Montserrat', sans-serif;
 }
 
+.h1-do{
+	font-size: 32px;
+}
+
+.h2-do{
+	font-size: 26px;
+}
+
+.h3-do{
+	font-size: 22px;
+}
+
+.h4-do{
+	font-size: 18px;
+}
+
+.h5-do{
+	font-size: 14px;
+}
+
+.h6-do{
+	font-size: 12px;
+}
+
+.h1-do-small, .h2-do-small, .h3-do-small, .h4-do-small, .h5-do-small, .h6-do-small{
+	color: #A8A7A7;
+}
+
+.h1-do-small{
+	font-size: 18px;
+}
+
+.h2-do-small{
+	font-size: 16px;
+}
+
+.h3-do-small{
+	font-size: 14px;
+}
+
+.h4-do-small{
+	font-size: 12px;
+}
+
+.h5-do-small{
+	font-size: 10px;
+}
+
+.h6-do-small{
+	font-size: 8px;
+}
+
 .p-do{
     font-family: 'Josefin Sans', sans-serif;
     display: inline-block;
@@ -306,4 +358,37 @@
 .inp-do-sm{
 	padding: 7px;
 	font-size: 12px;
+}
+
+.label-do{
+	background: #03588C;
+    color: #F4F4F4;
+    font-size: 10px;
+    padding: 2px 5px;
+    border-radius: 2px;
+}
+
+.lb-do-warning{
+	background: #F18C0D;
+}
+
+.lb-do-error{
+	background: #E94500;
+}
+
+.lb-do-info{
+    background: #1DADF7;
+}
+
+.lb-do-success{
+	background: #038C16;
+}
+
+.mark-do{
+    padding: 0px 5px 3px 5px;
+    background: #BFC505;
+}
+
+.ins-do, .u-do, .del-do, .bold-do, .i-do{
+	color: #000;
 }
